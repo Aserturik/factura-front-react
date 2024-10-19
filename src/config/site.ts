@@ -14,11 +14,11 @@ export const siteConfig = {
     },
     {
       label: "Inventario",
-      href: "/pricing",
+      href: "/inventory",
     },
     {
       label: "Proveedores",
-      href: "/blog",
+      href: "/providers",
     },
   ],
   navMenuItems: [
