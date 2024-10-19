@@ -1,34 +1,30 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Vite + NextUI",
-  description: "Make beautiful websites regardless of your design experience.",
+  name: "Super Mercado El Rey",
+  description: " Sistema de facturación y control de inventario",
   navItems: [
     {
-      label: "Home",
+      label: "Inicio",
       href: "/",
     },
     {
-      label: "Docs",
-      href: "/docs",
+      label: "Facturación",
+      href: "/billing",
     },
     {
-      label: "Pricing",
+      label: "Inventario",
       href: "/pricing",
     },
     {
-      label: "Blog",
+      label: "Proveedores",
       href: "/blog",
-    },
-    {
-      label: "About",
-      href: "/about",
     },
   ],
   navMenuItems: [
     {
-      label: "Profile",
-      href: "/profile",
+      label: "Facturación",
+      href: "/billing",
     },
     {
       label: "Dashboard",
