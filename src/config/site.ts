@@ -27,32 +27,12 @@ export const siteConfig = {
       href: "/billing",
     },
     {
-      label: "Dashboard",
-      href: "/dashboard",
+      label: "Inventario",
+      href: "/inventory",
     },
     {
-      label: "Projects",
-      href: "/projects",
-    },
-    {
-      label: "Team",
-      href: "/team",
-    },
-    {
-      label: "Calendar",
-      href: "/calendar",
-    },
-    {
-      label: "Settings",
-      href: "/settings",
-    },
-    {
-      label: "Help & Feedback",
-      href: "/help-feedback",
-    },
-    {
-      label: "Logout",
-      href: "/logout",
+      label: "Proveedores",
+      href: "/providers",
     },
   ],
   links: {
